@@ -1,0 +1,343 @@
+* {
+	margin:0px;
+	padding:0px;
+}
+header,div,hgroup,section,footer {
+	display:block;
+}
+body {
+	width:100%;
+	display:-webkit-box;
+	-webkit-box-pack: center;
+	background-position:center;
+	border:2px solid #730d0b;
+	background:gold;
+	height:2000px;
+}
+div[ime="glavnci"] {
+	max-width:2000px;
+	height:2500px;
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	-webkit-box-flex:1;
+	
+
+}
+img[ime="der"] {
+	margin:100px auto 0px 0px;
+	width:1330px;
+	height:1650px;
+	border:2px solid #730d0b;
+	
+}
+header[name="n1"] {
+	width:100%;
+	height:300px;
+	background:	#373e58;
+	border:5px solid #730d0b;
+	
+}
+nav[ime="kj"] {
+	width:100%;
+	text-align:right;
+}
+hgroup {
+	width:200px;
+	height:100px;
+	margin:30px 0px 0px 50px;
+	background-image:url('markus-spiske-221494.jpg');
+	float:left;
+	clear:left;
+}
+img[ime="lkj"] {
+	width:200px;
+	height:100px;
+	margin:0px 0px 0px 0px;
+}
+h1[ime="p"] {
+	color:#e9dcba;
+	text-shadow:4px 1px 1px #838383;
+	font-size:30px;
+	font-family:papyrus;
+	margin:0px 0px 0px 0px;
+
+}
+h2[ime="p"] {
+	color:#e9dcba;
+	text-shadow:4px 1px 1px #838383;
+	font-size:30px;
+	font-family:papyrus;
+	margin:0px 0px 0px 40px;
+}
+h3[ime="p"] {
+	color:white;
+	text-shadow:1px 1px 1px black;
+	font-size:30px;
+	font-family:;
+	
+}
+div[ime="d2"] {
+	background:	#116655;
+	color:white;
+	margin:0px auto 0px 0px;
+	border-bottom:5px solid #730d0b;
+}
+a[ime="o"] {
+	color:white;
+	text-decoration:none;
+	text-shadow:2px 1px 1px black;
+}
+div[ime="donja"] {
+	margin:20px 0px 0px 0px;
+	background:	#116655;
+	width:100%;
+	height:50px;
+	border-top:5px solid #730d0b;
+	border-bottom:5px solid #730d0b;
+}
+img[ime="sredina"] {
+	width:700px;
+	height:200px;
+	margin:20px 0px 0px 100px;
+	border:2px solid #730d0b;
+	box-shadow: 10px 10px 5px #838383;
+	
+}
+a[ime="i"] {
+	color:#e9dcba;
+	text-decoration:none;
+	text-shadow:2px 1px 1px black;
+	font-size:17px;
+	font-family:papyrus;
+	margin:0px auto 0px 0px;
+	padding-right:30px;
+	padding-left:30px;
+	border:2px solid  #e9dcba;
+		border-bottom:0px;
+}
+a[ime="i"]:hover {
+	color:#838383;
+}
+a[ime="is"] {
+	color:##838383;
+	text-decoration:none;
+	text-shadow:2px 1px 1px black;
+	font-size:17px;
+	font-family:Trattatello;
+	padding-left:30px;
+	padding-right:30px;
+	border-left:1px solid #838383;
+	border-right:1px solid #838383;
+	text-align:center;
+	margin:0px 0px 0px 30px;
+}
+a[ime="is"]:hover {
+	color:#838383;
+}
+nav[ime="nek"] {
+	margin:30px auto 1px 20px;
+}
+img[ime="sad"] {
+	width:100%;
+	height:200px;
+	border:2px solid red;
+	margin:40px auto;
+}
+img[ime="slika"] {
+	width:30px;
+	height:30px;
+	margin:0px 25px;
+}
+img[ime="slikad"] {
+	width:30px;
+	height:30px;
+	margin:0px 0px;
+}
+img[ime="slikads"] {
+	width:30px;
+	height:30px;
+	margin:0px 25px;
+}
+div[ime="fd"] {
+	width:500px;
+	height:1800px;
+	
+	
+	margin:50px auto 0px 0px;
+	}
+img[ime="dsf"] {
+	width:300px;
+	height:300px;
+	margin:40px auto 0px 400px;
+	border-right:2px solid #838383;
+	padding-right:20px;
+	box-shadow: 10px 10px 5px #888888;
+	background:lawngreen;
+	border:2px solid red;
+	}
+img[ime="ewd"] {
+	width:250px;
+	height:300px;
+	margin:0px auto 0px 0px;
+	border-right:2px solid #838383;
+	padding-right:20px;
+	padding-left:20px;
+	box-shadow: 10px 10px 5px #888888;
+background:lawngreen;
+border:2px sold red;
+
+	}
+h2[ime="as"] {
+	text-shadow:6px 1px 1px red;
+	color:lawngreen;
+	margin:80px auto 10px 760px;
+	font-family:papyrus;
+	font-size:80px;
+	border-bottom:2px solid #838383;
+	width:400px;
+	box-shadow: 10px 10px 5px #888888;
+}
+img[ime="fdg"] {
+	width:250px;
+	height:300px;
+	margin:0px auto 0px 10px;
+	box-shadow: 10px 10px 5px #888888;
+	background:lawngreen;
+	border:2px solid red;
+}
+div[ime="rt"] {
+	width:800px;
+	margin:80px auto 0px 0px;
+	border-top:2px solid  #888888;
+	box-shadow: 10px 0px 20px black;
+}
+h2[ime="git"] {
+	text-shadow:6px 1px 1px red;
+	color:lawngreen;
+	margin:80px auto 0px 150px;
+	font-family:papyrus;
+	font-size:80px;
+	border-bottom:2px solid #838383;
+	width:600px;
+	box-shadow: 10px 10px 5px #888888;
+}
+img[ime="k"] {
+	width:250px;
+	height:300px;
+	margin:20px auto 0px 200px;
+	background:lawngreen;
+	border:2px solid red;
+	padding:30px;
+	box-shadow: 10px 10px 5px #888888;
+	}
+div[ime="ac"] {
+	width:800px;
+	border-top:2px solid  #888888;
+	margin:80px auto 0px 550px;
+	box-shadow: 10px 0px 20px black;
+}
+img[ime="qf"] {
+	width:250px;
+	height:250px;
+	margin:0px auto 20px 400px;
+	border:2px solid red;
+	box-shadow: 10px 10px 5px #888888;
+}
+footer[ime="dole"] {
+	width:100%;
+	height:300px;
+	
+	opacity:1;
+	background:	#373e58;
+	margin:100px auto 0px 0px;
+}
+div[ime="leva"] {
+	width:1350px;
+	background:#373e58;
+	border-top:2px solid red;
+}
+div[ime="desna"] {
+	background:#373e58;
+	width:1350px;
+	
+}
+div[ime="donjas"] {
+	background:#373e58;
+	width:1350px;
+	border-bottom:2px solid red;
+	padding-bottom:100px;
+}
+div[ime="des"] {
+	width:170px;
+	height:20px;
+	border-radius:50px;
+	float:right;
+	clear:right;
+}
+div[ime="gore"] {
+	width:100%;
+	height:20px;
+	background:#116655;
+	border-bottom:2px solid #e9dcba;
+	border-top:2px solid #e9dcba;
+}
+div[ime="dole"] {
+	width:100%;
+	height:100px;
+	background:#116655;
+	margin:160px auto 0px 0px;
+	border-top:2px solid #e9dcba;
+}
+ul[ime="linija"] {
+	margin:20px auto 0px 20px;
+	float:left;
+	clear:left;
+	padding-right:40px;
+}
+ul[ime="linija2"] {
+	margin:20px auto 0px 10px;
+	
+}
+h1[ime="cs"] {
+	color: #e9dcba;
+	font-size:large;
+	text-shadow:1px 1px 1px black;
+	font-family:papyrus;
+}
+h1[ime="cs"]:hover {
+	color: #e9dcba;
+}
+li[ime="f"] {
+	color:white;
+	font-family:helvetica;
+	text-shadow:1px 1px 1px black;
+}
+nav[ime="skroz"] {
+	margin:70px 0px 0px 1100px;
+}
+a[ime="rt"] {
+	color: #e9dcba;
+	font-family:papyrus;
+	text-decoration:none;
+	text-shadow:1px 1px 1px black;
+	padding-right:5px;
+}
+a[ime="rt"]:hover {
+	color:green;
+}
+h2[ime="acs"] {
+font-family:papyrus;
+color:white;
+}
+title {
+	display:none;
+	
+}
+img[ime="slikads"]:hover {
+	color:blue;
+}
+p[ime="cbx"] {
+	color:white;
+	float:left;
+	clear:left;
+}
